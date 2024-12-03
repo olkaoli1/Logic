@@ -1,6 +1,0 @@
-ru/netology/tasks/Product.class
-ru/netology/tasks/ProductRepository.class
-ru/netology/tasks/ProductManager.class
-ru/netology/tasks/Main.class
-ru/netology/tasks/AlreadyExistsException.class
-ru/netology/tasks/NotFoundException.class
